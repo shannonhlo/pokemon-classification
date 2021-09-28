@@ -1,1 +1,1 @@
-# image_classification
+# pokemon_classification
