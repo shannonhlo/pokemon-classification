@@ -21,9 +21,11 @@ The purpose of this repo is to apply simple binary classification models to a Po
 
 ### Brief
 
-Did you ~~have a nice childhood~~ grow up in the late 90s or early 2000s? If so, you've probably heard of Pokemon like Pikachu, Charizard or Mewtwo.
+Did you ~~have a nice childhood~~ grow up in the late 90s or early 2000s? If so, you've probably heard of Pokemon. Odds are, you've heard or seen popular Pokemon like Pikachu, Charizard or Mewtwo. 
 
-Nearly a decade of Pokemon generations later and the franchise is still thriving. But this isn't a sell of Pokemon - its a data-science project! We thought it would be fun to train a machine to identify a Legendary Pokemon given information about them. Said another way, what features are most significant in determining whether or not a Pokemon was Legendary?
+There are currently 898 Pokemon? Of those, only 59 are labeled as being **Legendary**. Don't know what is a Legendary Pokemon? Imagine them as the "Aslpha-Chad's" of the Poke-world. 
+
+We thought it would be fun to train a machine to identify these Apex type Pokemon. Said another way, what features are most significant in determining whether or not a Pokemon was Legendary?
 
 
 ## Methodology
