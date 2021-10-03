@@ -25,7 +25,7 @@ Did you ~~have a nice childhood~~ grow up in the late 90s or early 2000s? If so,
 
 Fun fact: there are currently 898 Pokemon. Of those, only 59 are labeled as being **Legendary**. Don't know what is a Legendary Pokemon? Imagine them as the "Alpha-Chad's" of the Poke-world. 
 
-We thought it would be fun to train a machine to identify these Apex type Pokemon. Said another way, what features are most significant in determining whether or not a Pokemon was Legendary?
+We thought it would be fun to train a machine to identify these apex type Pokemon. Said another way, what features are most significant in determining whether or not a Pokemon is Legendary?
 
 
 ## Methodology
